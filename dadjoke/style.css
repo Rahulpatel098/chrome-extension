@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: center;       
+    height: 12rem;  
+    width: 12rem;       
+    background-color: black;
+    margin: 0px;
+}
+#joke{
+    color:rgb(246, 246, 103);
+    /* text-shadow:4px 4px 15px rgb(255, 255, 67) ; */
+    display: flex;
+    padding: 1rem;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 12rem;
+    text-align: center;
+    box-shadow: 0 0 15px white;
+   margin: 1rem;
+
+}
